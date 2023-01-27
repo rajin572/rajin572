@@ -18,13 +18,13 @@ Skills: HTML / CSS / REACT / JS / NODE.JS / EXPRESS.JS / MONGODB
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajin572)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=react)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajin572&theme=radical)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajin572&theme=react)
 
 ![GitHub metrics](https://metrics.lecoq.io/rajin572)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajin572&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajin572&theme=react&hide_border=true)
 
 
 
