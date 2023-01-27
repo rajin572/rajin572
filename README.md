@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/rajin572/rajin572/blob/main/banner.jpg" />
 <h3 align="center"> Hello there 👋, I'm Din Islam Rajin</h3>
-<h4 align="center"> Front-End Developer</h4>
+<h3 align="center"> Front-End Developer</h3>
 
 ## About ME:
 I’m a web developer specifically in front-end developer. I have a strong knowledge About JavaScript, ReactJs and CSS. I have a positive outlook and am always
