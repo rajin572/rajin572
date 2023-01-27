@@ -1,9 +1,5 @@
-### Hi there 👋, I'm Din Islam Rajin
+### Hello there 👋, I'm Din Islam Rajin
 #### Full-Stack Web Developer
-I’m a web developer specifically a full-stack developer. I have a strong knowledge About MERN. I have a positive outlook and am always willing to learn new things.
-<h2 align="center">I'm Din Islam Rajin <br/> <h4 align="center">Front End Developer</h4></h2>
-
-<br/>
 I’m a web developer specifically a full-stack developer. I have a strong knowledge About MERN. I have a positive outlook and am always willing to learn new things.
 
 
