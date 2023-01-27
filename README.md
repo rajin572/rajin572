@@ -1,4 +1,4 @@
-<h1 style="border: none !important;">Hi, I am Din Islam Rajin <br/>Full-Stack Web Developer</h1>
+#Din Islam Rajin
 
 <br/>
 I’m a web developer specifically a full-stack developer. I have a strong knowledge About MERN. I have a positive outlook and am always willing to learn new things.
