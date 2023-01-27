@@ -23,9 +23,10 @@ I’m a web developer specifically a full-stack developer. I have a strong knowl
       <a href="https://codepen.io/https://codepen.io/rajin572"><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen'></a>
  </div>
 
-
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=react)
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajin572&theme=react)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajin572&theme=react&hide_border=true)
 
