@@ -1,5 +1,5 @@
-<h1>I'm Din Islam Rajin</h1>
-<h3>Front End Developer</h3>
+<h3>I'm Din Islam Rajin</h3>
+<h4>Front End Developer</h4>
 
 <br/>
 I’m a web developer specifically a full-stack developer. I have a strong knowledge About MERN. I have a positive outlook and am always willing to learn new things.
