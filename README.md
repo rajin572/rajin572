@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/rajin572/rajin572/blob/main/banner.jpg" />
 <h3 align="center"> Hello there 👋, I'm Din Islam Rajin</h3>
 <h4 align="center"> Full-Stack Web Developer</h4>
 
