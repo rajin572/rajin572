@@ -25,8 +25,8 @@ I’m a web developer specifically a full-stack developer. I have a strong knowl
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajin572&show_icons=true&locale=en" alt="rajin572" /></p>
-<a href="(https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=react)
-">![Anurag's GitHub stats]</a>
+![Anurag's GitHub stats]<a href="(https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=react)
+"></a>
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajin572&theme=react)
 
 ![GitHub metrics](https://metrics.lecoq.io/rajin572)  
