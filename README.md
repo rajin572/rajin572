@@ -26,11 +26,11 @@ I’m a web developer specifically a full-stack developer. I have a strong knowl
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=react)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajin572&theme=react&hide_border=true)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajin572&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajin572&theme=react&hide_border=true)
+![GitHub metrics](https://metrics.lecoq.io/rajin572)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajin572)
 
-![GitHub metrics](https://metrics.lecoq.io/rajin572)  
 
 
 
