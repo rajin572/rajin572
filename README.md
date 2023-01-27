@@ -21,10 +21,6 @@ I’m a web developer specifically a full-stack developer. I have a strong knowl
   <a href="https://www.linkedin.com/in/din-islam-rajin//"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
     <a href="https://www.facebook.com/dirrazin.69"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
       <a href="https://codepen.io/https://codepen.io/rajin572"><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen'></a>
- <a href="https://din-islam-rajin.netlify.app/">💻</a>
-  
-  
- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>]()  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>()  </div>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajin572)
