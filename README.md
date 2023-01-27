@@ -24,7 +24,7 @@ Skills: HTML / CSS / REACT / JS / NODE.JS / EXPRESS.JS / MONGODB
 
 ![GitHub metrics](https://metrics.lecoq.io/rajin572)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rajin572)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajin572&theme=radical&hide_border=true)
 
 
 
