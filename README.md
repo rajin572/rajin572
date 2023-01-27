@@ -1,9 +1,13 @@
 <img align="center" src="https://github.com/rajin572/rajin572/blob/main/banner.jpg" />
 <h3 align="center"> Hello there 👋, I'm Din Islam Rajin</h3>
-<h4 align="center"> Full-Stack Web Developer</h4>
+<h4 align="center"> Front-End Developer</h4>
 
 ## About ME:
-I’m a web developer specifically a full-stack developer. I have a strong knowledge About MERN. I have a positive outlook and am always willing to learn new things.
+I’m a web developer specifically in front-end developer. I have a strong knowledge About JavaScript, ReactJs and CSS. I have a positive outlook and am always
+willing to learn new things.
+<br/>
+As an adept web developer, I have a well rounded skill, making me an ideal fit for the web developer position. I have perfected my web development and error solving abilities . I am a capable and consistent problem-solver skilled at prioritizing and managing projects with proficiency. 
+<br/>
 - 🔭 I’m currently working on Full-Stack Development 
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on GitHub 
