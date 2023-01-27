@@ -1,4 +1,4 @@
-<h3 align="center" color="blue">I'm Din Islam Rajin</h3>
+<h align="center">I'm Din Islam Rajin</h2>
 <h4 align="center">Front End Developer</h4>
 
 <br/>
