@@ -20,7 +20,7 @@ Skills: HTML / CSS / REACT / JS / NODE.JS / EXPRESS.JS / MONGODB
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=radical)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajin572&theme=react-dark)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajin572&theme=radical)
 
 ![GitHub metrics](https://metrics.lecoq.io/rajin572)  
 
