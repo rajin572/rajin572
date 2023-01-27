@@ -24,20 +24,13 @@ I’m a web developer specifically a full-stack developer. I have a strong knowl
  </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajin572&show_icons=true&locale=en" alt="rajin572" /></p>
-![Anurag's GitHub stats]<a href="(https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=react)
-"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajin572)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=react)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajin572&theme=react)
 
 ![GitHub metrics](https://metrics.lecoq.io/rajin572)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajin572&theme=react&hide_border=true)
-
-<p align="left">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajin572)</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithashim&show_icons=true&locale=en" alt="codewithashim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithashim&" alt="codewithashim" /></p>
 
 
 
