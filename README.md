@@ -16,9 +16,9 @@ Skills: HTML / CSS / REACT / JS / NODE.JS / EXPRESS.JS / MONGODB
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rajin572)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/din-islam-rajin//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/dirrazin.69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/rajin572)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://din-islam-rajin.netlify.app/)  
 
 
-<span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajin572)]</span>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajin572)
 
-<span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=radical)</span>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=radical)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajin572&theme=react-dark)
 
