@@ -1,5 +1,5 @@
 <img align="center" src="https://github.com/rajin572/rajin572/blob/main/banner.jpg" />
-<h3 align="center"> Hello there 👋, I'm Din Islam Rajin</h3>
+<h3 align="center"> Hello there, I'm Din Islam Rajin</h3>
 <h3 align="center"> Front-End Developer</h3>
 
 ## About ME:
