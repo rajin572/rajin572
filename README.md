@@ -1,5 +1,5 @@
 <img align="center" src="https://github.com/rajin572/rajin572/blob/main/banner.jpg" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFF4&center=true&vCenter=true&width=435&lines=Hey%2C+I+am+Din+Islam+Rajin)](https://git.io/typing-svg)
+(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFF4&center=true&vCenter=true&width=435&lines=Hey%2C+I+am+Din+Islam+Rajin)
 <h3 align="center"> Front-End Developer</h3>
 
 ## About ME:
