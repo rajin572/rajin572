@@ -1,5 +1,7 @@
 <img align="center" src="https://github.com/rajin572/rajin572/blob/main/banner.jpg" />
-<h3 align="center"> Hello there, I'm Din Islam Rajin</h3>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+I'm+Ashim+Rudra+Paul+%47%B5%FF" alt="Typing SVG" /></a>
+</h3>
 <h3 align="center"> Front-End Developer</h3>
 
 ## About ME:
