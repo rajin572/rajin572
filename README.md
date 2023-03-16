@@ -39,4 +39,4 @@ As an adept web developer, I have a well rounded skill, making me an ideal fit f
 
 ![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajin572&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub metrics](https://metrics.lecoq.io/rajin572)  
+![GitHub metrics](https://metrics.lecoq.io/rajin572)
