@@ -43,4 +43,3 @@ As an adept web developer, I have a well rounded skill, making me an ideal fit f
 ![GitHub metrics](https://metrics.lecoq.io/rajin572)  
 
 
-
