@@ -8,7 +8,7 @@
 
 
 ## About ME:
-I’m a web developer specifically in front-end developer. I have a strong knowledge About JavaScript, ReactJs and CSS. I have a positive outlook and am always
+I’m a web developer specifically in Full-stack developer. I have a strong knowledge About CSS, JavaScript, ReactJs, NodeJS, Express, TypeScript and Mongoose. I have a positive outlook and am always
 willing to learn new things.
 <br/>
 As an adept web developer, I have a well rounded skill, making me an ideal fit for the web developer position. I have perfected my web development and error solving abilities . I am a capable and consistent problem-solver skilled at prioritizing and managing projects with proficiency. 
