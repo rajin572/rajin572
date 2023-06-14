@@ -16,7 +16,7 @@ As an adept web developer, I have a well rounded skill, making me an ideal fit f
 - 🔭 I’m currently working on Full-Stack Development 
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about React.JS 
+- 💬 Ask me about MERN 
 - 📫 How to reach me: din.islam.rajin572@gmail.com 
 
 
