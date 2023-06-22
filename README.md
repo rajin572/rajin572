@@ -7,7 +7,7 @@
 
 
 
-## About ME:
+##👤👨‍💻 About ME:
 I’m a web developer specifically in Full-stack developer. I have a strong knowledge About CSS, JavaScript, ReactJs, NodeJS, Express, TypeScript and Mongoose. I have a positive outlook and am always
 willing to learn new things.
 <br/>
@@ -31,7 +31,7 @@ As an adept web developer, I have a well rounded skill, making me an ideal fit f
 
 
 
-<h2>Connect with me: </h2>
+<h2>✉️ Connect with me: </h2>
 <div align="center">
   <a href="https://github.com/rajin572/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/din-islam-rajin//"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
