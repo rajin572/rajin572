@@ -47,7 +47,7 @@ As an adept web developer, I have a well rounded skill, making me an ideal fit f
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=react)
+![rajin572's Stats](https://github-readme-stats.vercel.app/api?username=rajin572&theme=outrun&show_icons=true&hide_border=false&count_private=true)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajin572&theme=react)
 
