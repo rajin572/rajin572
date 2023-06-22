@@ -6,8 +6,7 @@
 <h3 align="center"> Full-Stack Developer (MERN)</h3>
 
 
-
-##👤👨‍💻 About ME:
+<h2>👤👨‍💻 About ME:</h2>
 I’m a web developer specifically in Full-stack developer. I have a strong knowledge About CSS, JavaScript, ReactJs, NodeJS, Express, TypeScript and Mongoose. I have a positive outlook and am always
 willing to learn new things.
 <br/>
