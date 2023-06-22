@@ -53,6 +53,6 @@ As an adept web developer, I have a well rounded skill, making me an ideal fit f
 
 ![rajin572's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajin572&theme=outrun&hide_border=false)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajin572&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![rajin572's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajin572&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 
 ![GitHub metrics](https://metrics.lecoq.io/rajin572)
