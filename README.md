@@ -49,10 +49,7 @@ As an adept web developer, I have a well rounded skill, making me an ideal fit f
 
 ![rajin572's Stats](https://github-readme-stats.vercel.app/api?username=rajin572&theme=outrun&show_icons=true&hide_border=false&count_private=true)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajin572&theme=react)
-
-![image](https://github.com/rajin572/rajin572/assets/85832724/54bfd83b-0a17-4c72-ac6d-2cdcf49e68dd)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajin572&bg_color=141439&color=ffcc00&line=ff1aff&point=8080ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![rajin572's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajin572&theme=outrun&hide_border=false)
 
