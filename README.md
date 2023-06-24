@@ -2,7 +2,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffcc00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Din+Islam+Rajin" alt="Typing SVG" /></a></h3>
 <h3 align="center"> Full-Stack Developer (MERN)</h3>
 <div align="right">
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="120" />
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 </div>
 
 
