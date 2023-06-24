@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/rajin572/rajin572/blob/main/purpose.jpg" />
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffcc00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Din+Islam+Rajin" alt="Typing SVG" /></a></h3>
 <h3 align="center"> Full-Stack Developer (MERN)</h3>
-<div align="center">
+<div align="right">
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="120" />
 </div>
 
@@ -11,6 +11,7 @@ I’m a web developer specifically in Full-stack developer. I have a strong know
 willing to learn new things.
 <br/>
 As an adept web developer, I have a well rounded skill, making me an ideal fit for the web developer position. I have perfected my web development and error solving abilities . I am a capable and consistent problem-solver skilled at prioritizing and managing projects with proficiency. 
+<br/>
 <br/>
 - 🔭 I’m currently working on Full-Stack Development <br/>
 - 🌱 I’m currently learning MERN <br/>
