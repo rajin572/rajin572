@@ -12,11 +12,11 @@ willing to learn new things.
 <br/>
 As an adept web developer, I have a well rounded skill, making me an ideal fit for the web developer position. I have perfected my web development and error solving abilities . I am a capable and consistent problem-solver skilled at prioritizing and managing projects with proficiency. 
 <br/>
-- 🔭 I’m currently working on Full-Stack Development 
-- 🌱 I’m currently learning MERN 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about MERN 
-- 📫 How to reach me: <a href="din.islam.rajin572@gmail.com">din.islam.rajin572@gmail.com</a> 
+- 🔭 I’m currently working on Full-Stack Development <br/>
+- 🌱 I’m currently learning MERN <br/>
+- 👯 I’m looking to collaborate on GitHub <br/>
+- 💬 Ask me about MERN <br/>
+- 📫 How to reach me: <a href="din.islam.rajin572@gmail.com">din.islam.rajin572@gmail.com</a> <br/>
 
 
 
