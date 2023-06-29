@@ -5,7 +5,6 @@
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="180" />
 </div>
 
-
 <h2>👨‍💻 About ME:</h2>
 I’m a web developer specifically in Full-stack developer. I have a strong knowledge About CSS, JavaScript, ReactJs, NodeJS, Express, TypeScript and Mongoose. I have a positive outlook and am always
 willing to learn new things.
