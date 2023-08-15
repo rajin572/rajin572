@@ -24,7 +24,7 @@ As an adept web developer, I have a well rounded skill, making me an ideal fit f
 
 <h2>💻 Skills And Technologies:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,redux,nextjs,nodejs,express,mongodb,postgres,firebase,git,github,postman,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,redux,nextjs,nodejs,express,prisma,mongodb,postgres,firebase,git,github,postman,netlify,vercel)](https://skillicons.dev)
 
 
 
