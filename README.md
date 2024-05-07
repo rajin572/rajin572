@@ -6,19 +6,29 @@
 </div>
 
 <h2>👨‍💻 About ME:</h2>
-I’m a web developer specifically in Full-stack developer. I have a strong knowledge About CSS, JavaScript, ReactJs, NodeJS, Express, TypeScript and Mongoose. I have a positive outlook and am always
-willing to learn new things.
+I’m a web developer, specifically a MERN Stack Developer. I am passionate about my work and my goal. My goal is to leverage my expertise in MongoDB, Express.js, React, and Node.js to contribute to innovative and dynamic projects within a forward-thinking organization. I have a strong knowledge About HTML, CSS, JavaScript, TypeScript, ReactJs, Redux, NextJS, NodeJS ExpressJS, MongoDB. I have a positive outlook and am always willing to learn new things. I am a capable and consistent problem-solver skilled at prioritizing and managing projects with proficiency.
 <br/>
 As an adept web developer, I have a well rounded skill, making me an ideal fit for the web developer position. I have perfected my web development and error solving abilities . I am a capable and consistent problem-solver skilled at prioritizing and managing projects with proficiency. 
 <br/>
 <br/>
-- 🔭 I’m currently working on Full-Stack Development <br/>
+- 🔭 I’m currently working on Frontend Development <br/>
 - 🌱 I’m currently learning MERN <br/>
 - 👯 I’m looking to collaborate on GitHub <br/>
 - 💬 Ask me about MERN <br/>
-- 📫 How to reach me: <a href="din.islam.rajin572@gmail.com">din.islam.rajin572@gmail.com</a> <br/>
+- 📫 How to reach me: <a href="din.islam.rajin572@gmail.com">din.islam.rajin572@gmail.com</a>, <a href="https://din-islam-rajin.vercel.app/">My Portfolio </a>
 
 
+
+
+<h2>📧 Connect with me: </h2>
+<div align="center">
+  <a href="https://github.com/rajin572/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/din-islam-rajin//"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
+    <a href="https://www.facebook.com/din.islam.rajin"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
+  <a href="https://din-islam-rajin.vercel.app"><img src='https://img.shields.io/badge/protfolio-000000?style=for-the-badge&logo=protfolio&logoColor=white' alt='portfolio'></a>
+ </div>
+
+ 
 
 
 
@@ -30,13 +40,7 @@ As an adept web developer, I have a well rounded skill, making me an ideal fit f
 
 
 
-<h2>📧 Connect with me: </h2>
-<div align="center">
-  <a href="https://github.com/rajin572/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/din-islam-rajin//"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
-    <a href="https://www.facebook.com/din.islam.rajin"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
-      <a href="https://codepen.io/rajin572"><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen'></a>
- </div>
+
 
 <br/>
 
